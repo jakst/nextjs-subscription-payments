@@ -95,6 +95,8 @@ export default function Footer() {
             <img
               src="/vercel.svg"
               alt="Vercel.com Logo"
+              width="89"
+              height="20"
               className="inline-block h-6 ml-4 text-primary"
             />
           </a>
