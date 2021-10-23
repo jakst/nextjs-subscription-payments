@@ -157,6 +157,8 @@ export default function Pricing({ products }) {
                 <img
                   src="/nextjs.svg"
                   alt="Next.js Logo"
+                  width="207"
+                  height="124"
                   className="h-12 text-primary"
                 />
               </a>
@@ -166,6 +168,8 @@ export default function Pricing({ products }) {
                 <img
                   src="/vercel.svg"
                   alt="Vercel.com Logo"
+                  width="89"
+                  height="20"
                   className="h-6 text-primary"
                 />
               </a>
@@ -175,6 +179,8 @@ export default function Pricing({ products }) {
                 <img
                   src="/stripe.svg"
                   alt="stripe.com Logo"
+                  width="2019"
+                  height="960"
                   className="h-12 text-primary"
                 />
               </a>
@@ -184,6 +190,8 @@ export default function Pricing({ products }) {
                 <img
                   src="/supabase.svg"
                   alt="supabase.io Logo"
+                  width="2978"
+                  height="628"
                   className="h-10 text-primary"
                 />
               </a>
@@ -193,6 +201,8 @@ export default function Pricing({ products }) {
                 <img
                   src="/github.svg"
                   alt="github.com Logo"
+                  width="90"
+                  height="32"
                   className="h-8 text-primary"
                 />
               </a>
